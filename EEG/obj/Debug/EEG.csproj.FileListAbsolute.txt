@@ -8,3 +8,6 @@ C:\Users\andre\Source\Workspaces\Workspace\EEG\EEG\EEG\bin\Debug\ThinkGear.dll
 C:\Users\andre\Source\Workspaces\Workspace\EEG\EEG\EEG\bin\Debug\NLog.xml
 C:\Users\andre\Source\Workspaces\Workspace\EEG\EEG\EEG\obj\Debug\EEG.exe
 C:\Users\andre\Source\Workspaces\Workspace\EEG\EEG\EEG\obj\Debug\EEG.pdb
+C:\Users\andre\Documents\GitHubVisualStudio\EEG\EEG\EEG\bin\Debug\EEG.exe.config
+C:\Users\andre\Documents\GitHubVisualStudio\EEG\EEG\EEG\obj\Debug\EEG.exe
+C:\Users\andre\Documents\GitHubVisualStudio\EEG\EEG\EEG\obj\Debug\EEG.pdb
