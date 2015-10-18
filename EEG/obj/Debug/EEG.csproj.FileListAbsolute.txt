@@ -1,0 +1,10 @@
+C:\Users\andre\Source\Workspaces\Workspace\EEG\EEG\EEG\bin\Debug\EEG.exe.config
+C:\Users\andre\Source\Workspaces\Workspace\EEG\EEG\EEG\obj\Debug\EEG.csprojResolveAssemblyReference.cache
+C:\Users\andre\Source\Workspaces\Workspace\EEG\EEG\EEG\bin\Debug\EEG.exe
+C:\Users\andre\Source\Workspaces\Workspace\EEG\EEG\EEG\bin\Debug\EEG.pdb
+C:\Users\andre\Source\Workspaces\Workspace\EEG\EEG\EEG\bin\Debug\Jayrock.Json.dll
+C:\Users\andre\Source\Workspaces\Workspace\EEG\EEG\EEG\bin\Debug\NLog.dll
+C:\Users\andre\Source\Workspaces\Workspace\EEG\EEG\EEG\bin\Debug\ThinkGear.dll
+C:\Users\andre\Source\Workspaces\Workspace\EEG\EEG\EEG\bin\Debug\NLog.xml
+C:\Users\andre\Source\Workspaces\Workspace\EEG\EEG\EEG\obj\Debug\EEG.exe
+C:\Users\andre\Source\Workspaces\Workspace\EEG\EEG\EEG\obj\Debug\EEG.pdb
